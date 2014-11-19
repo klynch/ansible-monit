@@ -1,0 +1,2 @@
+---
+monit_daemon_timeout_seconds: 60

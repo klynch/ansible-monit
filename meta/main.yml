@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Kevin Lynch
+  description: Installs a basic monit watchdog service
+  company: Kevin Lynch
+  license: BSD
+  min_ansible_version: 1.2
+  - name: EL
+    - 5
+    - 6
+    - 7
+  categories:
+  - monitoring
+  - system
+dependencies: []
